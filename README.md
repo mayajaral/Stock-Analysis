@@ -4,13 +4,17 @@ The purpose of this project is to provide user friendly stock analysis to aide i
 ## Results
 ### 2017 & 2018 Stock Analysis
 2017
-![Pivottablelaunchdata.PNG](https://github.com/mayajaral/Kickstart-Analysis/blob/master/ReadMEImages/Pivottablelaunchdata.PNG)
+![All_Stocks_2017.PNG](https://github.com/mayajaral/Stock-Analysis/blob/master/Resources/All_Stocks_2017.PNG)
 2018
-![Pivottablelaunchdata.PNG](https://github.com/mayajaral/Kickstart-Analysis/blob/master/ReadMEImages/Pivottablelaunchdata.PNG)
+![All_Stocks_2018.PNG](https://github.com/mayajaral/Stock-Analysis/blob/master/Resources/All_Stocks_2018.PNG)
 Comparing the stock market in 2017 and 2018 we see that 
 ### Execution time of scripts
-Original
-Refactored
+#### Original
+#### Refactored
+2017
+![VBA_Challenge_2017.PNG](https://github.com/mayajaral/Stock-Analysis/blob/master/Resources/VBA_Challenge_2017.PNG)
+2018
+![VBA_Challenge_2018.PNG](https://github.com/mayajaral/Stock-Analysis/blob/master/Resources/VBA_Challenge_2018.PNG)
 
 ## Summary
 ### What are the advantages or disadvantages of refactoring code?
