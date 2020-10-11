@@ -10,6 +10,10 @@ The purpose of this project is to provide user friendly stock analysis to aide i
 Comparing the stock market in 2017 and 2018 we see that 
 ### Execution time of scripts
 #### Original
+2017
+![2017_Time.PNG] (https://github.com/mayajaral/Stock-Analysis/blob/master/Resources/2017_Time.PNG)
+2018
+![2018_Time.PNG] (https://github.com/mayajaral/Stock-Analysis/blob/master/Resources/2018_Time.PNG)
 #### Refactored
 2017
 ![VBA_Challenge_2017.PNG](https://github.com/mayajaral/Stock-Analysis/blob/master/Resources/VBA_Challenge_2017.PNG)
