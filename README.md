@@ -3,10 +3,12 @@
 The purpose of this project is to provide user friendly stock analysis to aide in stock market investments. The project is aimed at individuals without much familiarity with programming languages, and thus uses VBA to create an easy to run script.
 ## Results
 ### 2017 & 2018 Stock Analysis
-2017
+#### 2017
+
 <img src="https://github.com/mayajaral/Stock-Analysis/blob/master/Resources/All_Stocks_2017.PNG" width="250">
 
-2018
+#### 2018
+
 ![All_Stocks_2018.PNG](https://github.com/mayajaral/Stock-Analysis/blob/master/Resources/All_Stocks_2018.PNG)
 
 Comparing the stock market in 2017 and 2018 we see that 
