@@ -4,8 +4,7 @@ The purpose of this project is to provide user friendly stock analysis to aide i
 ## Results
 ### 2017 & 2018 Stock Analysis
 2017
-![All_Stocks_2017.PNG](https://github.com/mayajaral/Stock-Analysis/blob/master/Resources/All_Stocks_2017.PNG)
-<img src="https://github.com/mayajaral/Stock-Analysis/blob/master/Resources/All_Stocks_2017.PNG" width="48">
+<img src="https://github.com/mayajaral/Stock-Analysis/blob/master/Resources/All_Stocks_2017.PNG" width="250">
 
 2018
 ![All_Stocks_2018.PNG](https://github.com/mayajaral/Stock-Analysis/blob/master/Resources/All_Stocks_2018.PNG)
